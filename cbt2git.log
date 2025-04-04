@@ -1,0 +1,5 @@
+2025-04-04 09:46:51.798952 - Received CBT.V508.FILE440.PDS from FILE440.XMI 
+2025-04-04 09:46:51.799506 - Found PDSALLOC.bin (application/octet-stream) in CBT.V508.FILE440.PDS, moved to PDS/PDSALLOC
+2025-04-04 09:46:51.799664 - Found PDSFREE.bin (application/octet-stream) in CBT.V508.FILE440.PDS, moved to PDS/PDSFREE
+2025-04-04 09:46:51.799800 - Found PDSMEM1.bin (application/octet-stream) in CBT.V508.FILE440.PDS, moved to PDS/PDSMEM1
+2025-04-04 09:46:51.799929 - Found PDSMEM4.bin (application/octet-stream) in CBT.V508.FILE440.PDS, moved to PDS/PDSMEM4
